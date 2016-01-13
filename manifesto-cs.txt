@@ -1,9 +1,8 @@
-Information is power. But like all power, there are those who want to keep it
-for themselves. The world's entire scientific and cultural heritage, published
-over centuries in books and journals, is increasingly being digitized and locked
-up by a handful of private corporations. Want to read the papers featuring the
-most famous results of the sciences? You'll need to send enormous amounts to
-publishers like Reed Elsevier. 
+Informace dávají moc. Ale jako u jakékoli jiné moci existují tací, kdo si ji
+chtějí nechat pro sebe. Kompletní vědecké a kulturní dědictví světa, po staletí
+vydávané prostřednictvím knih a časopisů, čím dál více digitalizuje a uzavírá
+několik soukromých společností. Chcete si přečíst články obsahující nejslavnější
+vědecké objevy? Musíte poslat enormní částky vydavatelům jako Reed Elsevier.
 
 There are those struggling to change this. The Open Access Movement has fought
 valiantly to ensure that scientists do not sign their copyrights away but
